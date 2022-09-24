@@ -99,3 +99,8 @@
 .user {
   margin-bottom: 1.5%;
 }
+
+/* TASK 1 */
+.popover input {
+    margin-right: 10px;
+}
